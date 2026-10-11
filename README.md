@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0001-two-sum) |
 | [0436-find-right-interval](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,4 +42,8 @@
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
