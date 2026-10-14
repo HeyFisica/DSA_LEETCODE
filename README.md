@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0066-plus-one) |
 | [0436-find-right-interval](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -30,6 +31,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0035-search-insert-position) |
 | [0436-find-right-interval](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0436-find-right-interval) |
 ## Stack
 |  |
