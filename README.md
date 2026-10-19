@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0066-plus-one) |
 | [0436-find-right-interval](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0904-fruit-into-baskets](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -18,6 +19,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0001-two-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0904-fruit-into-baskets](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## String
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0066-plus-one) |
+## Sliding Window
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
