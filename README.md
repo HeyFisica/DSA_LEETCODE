@@ -13,6 +13,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3206-alternating-groups-i](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/3206-alternating-groups-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Hash Table
 |  |
@@ -72,4 +73,5 @@
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0904-fruit-into-baskets) |
+| [3206-alternating-groups-i](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/3206-alternating-groups-i) |
 <!---LeetCode Topics End-->
