@@ -15,6 +15,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3206-alternating-groups-i](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/3206-alternating-groups-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Math
 |  |
 | ------- |
