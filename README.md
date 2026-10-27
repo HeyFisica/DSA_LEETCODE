@@ -77,6 +77,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0066-plus-one) |
+| [0172-factorial-trailing-zeroes](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Sliding Window
 |  |
