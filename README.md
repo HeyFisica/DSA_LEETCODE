@@ -8,6 +8,7 @@
 | [0035-search-insert-position](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+| [0164-maximum-gap](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0164-maximum-gap) |
 | [0334-increasing-triplet-subsequence](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0436-find-right-interval](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -37,6 +38,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0164-maximum-gap) |
 | [0436-find-right-interval](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -92,4 +94,16 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
