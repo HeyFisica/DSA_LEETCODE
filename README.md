@@ -10,6 +10,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0164-maximum-gap) |
 | [0334-increasing-triplet-subsequence](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0164-maximum-gap) |
+| [0435-non-overlapping-intervals](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -64,6 +66,7 @@
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Enumeration
@@ -106,4 +109,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0164-maximum-gap) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
