@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0006-zigzag-conversion) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
 | [1021-remove-outermost-parentheses](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -77,6 +78,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Math
@@ -84,6 +86,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Sliding Window
