@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0006-zigzag-conversion) |
+| [0412-fizz-buzz](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
 | [1021-remove-outermost-parentheses](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sorting
@@ -83,6 +84,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
+| [0412-fizz-buzz](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Sliding Window
 |  |
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0435-non-overlapping-intervals) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
