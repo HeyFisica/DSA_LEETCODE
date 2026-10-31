@@ -38,6 +38,7 @@
 | [0412-fizz-buzz](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
 | [1021-remove-outermost-parentheses](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -122,4 +123,16 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
