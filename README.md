@@ -13,6 +13,7 @@
 | [0435-non-overlapping-intervals](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0904-fruit-into-baskets](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -90,6 +91,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0504-base-7) |
 ## Sliding Window
