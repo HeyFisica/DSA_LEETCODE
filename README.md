@@ -22,6 +22,7 @@
 | [3206-alternating-groups-i](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/3206-alternating-groups-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0504-base-7) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sliding Window
 |  |
 | ------- |
