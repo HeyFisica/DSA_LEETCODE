@@ -29,6 +29,7 @@
 | [0001-two-sum](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0771-jewels-and-stones](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -40,6 +41,7 @@
 | [0412-fizz-buzz](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0504-base-7) |
 | [0709-to-lower-case](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
