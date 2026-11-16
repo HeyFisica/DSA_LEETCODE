@@ -29,6 +29,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+| [0387-first-unique-character-in-a-string](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0904-fruit-into-baskets) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0006-zigzag-conversion) |
+| [0387-first-unique-character-in-a-string](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0504-base-7) |
@@ -150,4 +152,12 @@
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
