@@ -16,6 +16,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0904-fruit-into-baskets](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0904-fruit-into-baskets) |
+| [1352-product-of-the-last-k-numbers](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -103,6 +104,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0504-base-7) |
+| [1352-product-of-the-last-k-numbers](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sliding Window
 |  |
@@ -154,6 +156,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Queue
 |  |
@@ -163,4 +166,12 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
