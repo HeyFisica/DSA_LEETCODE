@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0436-find-right-interval) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0436-find-right-interval](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0436-find-right-interval) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Stack
@@ -91,6 +93,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -132,6 +135,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -174,4 +178,12 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
