@@ -16,6 +16,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0713-subarray-product-less-than-k](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [1352-product-of-the-last-k-numbers](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -68,6 +69,7 @@
 | [0035-search-insert-position](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0436-find-right-interval](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0436-find-right-interval) |
+| [0713-subarray-product-less-than-k](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Stack
 |  |
@@ -112,6 +114,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [3206-alternating-groups-i](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/3206-alternating-groups-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
@@ -160,6 +163,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [1352-product-of-the-last-k-numbers](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Queue
