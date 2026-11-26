@@ -110,6 +110,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0504-base-7) |
 | [1352-product-of-the-last-k-numbers](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
+| [3360-stone-removal-game](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/3360-stone-removal-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sliding Window
 |  |
@@ -148,6 +149,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/HeyFisica/DSA_LEETCODE/tree/master/3360-stone-removal-game) |
 ## Graph Theory
 |  |
 | ------- |
